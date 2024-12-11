@@ -1,4 +1,2 @@
 - 👋 Hi, I’m **@Kerol-Dev**
-- 👀 I’m interested in **Programming**
-- 🌱 I’m currently working on **Polygon AI unity asset**
-- 📫 How to reach me **info@polygonasset.net**
+- Kerem Erol, Formally.
