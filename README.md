@@ -1,2 +1,3 @@
 - 👋 Hi, I’m **@Kerol-Dev**
 - Kerem Erol, Formally.
+- Founder of Tercio Labs
