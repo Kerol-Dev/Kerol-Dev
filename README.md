@@ -1,3 +1,7 @@
 - 👋 Hi, I’m **@Kerol-Dev**
 - Kerem Erol, Formally.
-- Founder of Tercio Labs
+- Founder of:
+   - terciolabs.com
+   - aceloop.dev
+   - curseva.com
+   - join.heala.app
