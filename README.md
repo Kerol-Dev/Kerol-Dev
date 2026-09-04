@@ -1,34 +1,49 @@
-# 👋 Hi, I'm Kerem Erol (@Kerol-Dev)
+# Hi, I'm Kerem 👋
 
-I am an **Electrical & Electronic Engineering** student at **The University of Manchester** and the Founder & Lead Engineer of **Tercio Labs**. 
+### Co-Founder & CTO @ Heala
 
-I build at the intersection of hardware, software, and AI. I operate across the entire product lifecycle: designing 4-layer PCBs, writing real-time embedded firmware, building AI-native full-stack apps, and shipping the physical enclosure[cite: 1].
+I'm an Electrical & Electronic Engineering student at the University of Manchester and a software developer focused on building scalable, user-focused products.
 
----
+Currently, I'm building **Heala**, an AI-powered health and fitness platform designed to make nutrition, training, recovery, sleep and everyday health tracking simpler and more useful.
 
-## 🚀 Active Projects & Ventures
+## 🚀 What I'm working on
 
-### 🛠️ Hardware & Robotics
-*   **[Tercio Labs](https://terciolabs.com) | Tercio S1** – A high-precision, closed-loop stepper driver built from the silicon up[cite: 1]. Features a custom 4-layer PCB, STM32 firmware, silent stepping, and stall detection[cite: 1].
+**Heala**
+AI-powered health & fitness platform combining data, coaching and everyday tracking into one experience.
 
-### 🌐 AI & Software Platforms
-*   **[Curseva](https://curseva.com)** – An AI-powered university study platform[cite: 1]. Leverages Gemini and Whisper pipelines to process lecture materials into practice exams, flashcards, and grounded tutor chats[cite: 1]. *(React, Supabase)*[cite: 1]
-*   **[AceLoop](https://aceloop.dev)** – A technical interview preparation platform featuring sandbox-executed code runs across 13 languages to eliminate hallucinated verdicts[cite: 1]. Integrates an AI coach and FSRS-based spaced repetition[cite: 1].
-*   **[Heala](https://heala.fit)** – A mobile-first AI health companion utilizing edge AI, HealthKit, and pattern detection across sleep, nutrition, and biometric activity[cite: 1]. *(React Native, Supabase)*[cite: 1]
+As Co-Founder & CTO, I work across:
 
----
+* Product architecture and technical strategy
+* Mobile and web development
+* Backend infrastructure and APIs
+* AI integrations and intelligent health features
+* Health and wearable data integrations
+* Analytics, subscriptions and growth infrastructure
+* App Store deployment and production systems
 
-## 🛠️ Technical Skillset
+## 🛠 Tech
 
-*   **Programming:** C/C++, Java, Python, TypeScript, React, React Native, Linux, Git[cite: 1]
-*   **Embedded Systems:** STM32, Arduino, Raspberry Pi, CAN Bus / FDCAN, I2C, SPI, UART[cite: 1]
-*   **Electronics & PCB Design:** KiCad, 4-layer PCB design, circuit analysis, motor control systems[cite: 1]
-*   **Mechanical & Prototyping:** Fusion 360, SolidWorks, actuator mechanism design, 3D printing[cite: 1]
-*   **AI & Cloud Infrastructure:** AI/LLM pipelines, AI-native product architecture, Supabase[cite: 1]
+**Frontend**
+React Native · Expo · Next.js · TypeScript
 
----
+**Backend & Data**
+Supabase · PostgreSQL · REST APIs
 
-## 📫 Connect with Me
-*   **Portfolio:** [keremerol.com](https://keremerol.com)[cite: 1]
-*   **LinkedIn:** [linkedin.com/in/kerem-erol](https://linkedin.com/in/kerem-erol)[cite: 1]
-*   **Email:** [kerem.erol@student.manchester.ac.uk](mailto:kerem.erol@student.manchester.ac.uk)[cite: 1]
+**Infrastructure & Product**
+GitHub · EAS · RevenueCat · Stripe · Apple Health · Wearable APIs
+
+**AI**
+LLM integrations · AI-powered product features · structured health data processing
+
+## 🎓 Education
+
+**University of Manchester**
+BEng (Hons) Electrical & Electronic Engineering
+
+## 📍 Currently
+
+Building **Heala** and exploring the intersection of software, AI, health technology and consumer products.
+
+### Let's connect
+
+🌐 keremerol.com
